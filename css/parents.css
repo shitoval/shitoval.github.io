@@ -1,0 +1,44 @@
+﻿p {
+    font-size: 14pt
+}
+
+#parents {
+    min-height: 765px;
+}
+
+#parents div {
+    width: 70%;
+    display: flex;
+    margin: 10px auto
+}
+
+#parents a {
+    margin: 15px;
+    color: #FFF;
+}
+
+#parents img {
+    height: 50px;
+    width: 50px;
+}
+
+#parents h6 {
+    font-size: 22pt;
+    color: #FFF;
+    margin-bottom: 30px;
+}
+
+#parents p {
+    margin: 15px;
+    font-family: myfont;
+    color: #CCC;
+}
+
+#parents div:hover {
+    background-color: rgba(74, 74, 74, 0.2)
+}
+
+img {
+    width: 70px;
+    height: 70px
+}
